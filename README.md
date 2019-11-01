@@ -1,4 +1,4 @@
-# Mapa Educacao Brasileira
+# Mapa Educação Brasileira
 
 #### Fonte dos Dados:
 
